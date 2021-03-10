@@ -14,6 +14,6 @@ from between_two_dates_plugin import days_between_two_dates
 
 Then to use it just simple do this:
 
-'''
+'''p
 days_between_two_dates(start_date, end_date)
 '''
