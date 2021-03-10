@@ -8,7 +8,7 @@ The output will be an list with all the dates.
 ```
 
 To use this plugin , you need to import it with following command
-```c
+```p
 from between_two_dates_plugin import days_between_two_dates
 ```
 
